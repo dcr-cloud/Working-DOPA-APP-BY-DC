@@ -1,0 +1,5 @@
+{
+  "name": "Dopa",
+  "description": "A cross-platform productivity + gamification app for Gen Z and Millennials. Level up your life, one task at a time.",
+  "requestFramePermissions": ["notifications"]
+}
